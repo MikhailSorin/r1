@@ -5,7 +5,7 @@ import MyPosts from "./myPosts/myPosts";
 
 const Profile = () => {
     return (
-        <div className={ppp.Content}>
+        <div>
             <div>
                 <img src="https://cdn.stocksnap.io/img-thumbs/280h/Z28P4HBP06.jpg"/>
             </div>
